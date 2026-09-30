@@ -1,0 +1,6 @@
+@LedgerPro.SubscriptionBilling.Api_HostAddress = http://localhost:5286
+
+GET {{LedgerPro.SubscriptionBilling.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

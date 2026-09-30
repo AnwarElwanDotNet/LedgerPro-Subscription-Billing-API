@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BL/BL.csproj" />
+  <Project Path="DAL/DAL.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="LedgerPro.SubscriptionBilling.Api/LedgerPro.SubscriptionBilling.Api.csproj" />
+</Solution>
